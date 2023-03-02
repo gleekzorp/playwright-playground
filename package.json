@@ -1,0 +1,13 @@
+{
+  "name": "playwright-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Daniel Floyd <gleek.dan@gmail.com> (https://github.com/gleekzorp)",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.31.1"
+  }
+}
